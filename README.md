@@ -1,2 +1,2 @@
 # SemmelBrothers
-Firmware for the Nordbrot company.
+Firmware for the SemmelBrothers GbR.
