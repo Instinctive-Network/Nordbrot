@@ -3,9 +3,13 @@
 
 # Benutzung
 Dieser Berechnungscalculator ist eine sehr einfache Anwendung, die jedoch hohe Integrationen mit Datenbanken und Webseiten vorweist. 
+
 Bei dem Start der Anwendung muss die Lizenz eingetragen werden, die bei Instinctive-Network erworben kann.
+
 Danach müssen die Felder des *Gebäcks* und der *Anzahl* mit den **richtigen Werten** eingetragen werden.
+
 Der Button *Ausführen* vollführt dir Rechnungen.
+
 Ein Klick auf das Symbol der Cloud überträgt alle richtigen Daten mit der *Unique-Processing-Id* in die Datenbank.
 
 # Legal Points
